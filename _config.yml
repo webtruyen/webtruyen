@@ -1,7 +1,7 @@
 # Site settings
-title: Antonio Trento, theme Jeky New Age, the start Bootstrap themplate build for jekyll
-email:
-description: A jekyll template for landing pages, portfolio and blogging
+title: Ứng dụng đọc truyện online offline tốt nhất Việt Nam.
+email: admin@webtruyen.org
+description: Ứng dụng đọc truyện online offline tốt nhất Việt Nam. Bao gồm hàng ngàn truyện được tổng hợp và phân loại có chất lượng tốt, được cập nhật thường xuyên, liên tục.
 
 baseurl: "" # the subpath of your site, e.g. /blog/ (If you use organization leave empty)
 url: "webtruyen.github.io" # the base hostname & protocol for your site
