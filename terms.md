@@ -4,7 +4,7 @@ Welcome to WebTruyen, a service provided by WebTruyen Team (“WebTruyen”, “
 
 These Terms of Use govern your use of webtruyen.org and support.webtruyen.org (together, the “Website”), our mobile and desktop apps (our "Apps") and all related players, widgets, tools, applications, data, software, APIs (which may also be subject to separate API Terms of Use) and other services provided by SoundCloud (the “Services”).
 
-These Terms of Use, together with our Privacy Policy, Cookies Policy, Community Guidelines and any other terms specifically referred to in any of those documents, constitute a legally binding agreement (the “Agreement”) between you and SoundCloud in relation to your use of the Website, Apps and Services (together, the “Platform”).
+These Terms of Use, together with our Privacy Policy, Cookies Policy, Community Guidelines and any other terms specifically referred to in any of those documents, constitute a legally binding agreement (the “Agreement”) between you and WebTruyen in relation to your use of the Website, Apps and Services (together, the “Platform”).
 ## Your Content
 
 Any and all media, text, photos, pictures, graphics, comments, and other content, data or information that you upload, store, transmit, submit, exchange or make available to or via the Platform (hereinafter "Your Content") is generated, owned and controlled solely by you, and not by WebTruyen.
