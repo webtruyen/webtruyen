@@ -1,3 +1,5 @@
+
+
 ## DocTruyen Terms of Use
 
 Welcome to WebTruyen, a service provided by WebTruyen Team (“WebTruyen”, “we” “our”, or “us”).
@@ -5,6 +7,15 @@ Welcome to WebTruyen, a service provided by WebTruyen Team (“WebTruyen”, “
 These Terms of Use govern your use of webtruyen.org and support.webtruyen.org (together, the “Website”), our mobile and desktop apps (our "Apps") and all related players, widgets, tools, applications, data, software, APIs (which may also be subject to separate API Terms of Use) and other services provided by WebTruyen (the “Services”).
 
 These Terms of Use, together with our Privacy Policy, Cookies Policy, Community Guidelines and any other terms specifically referred to in any of those documents, constitute a legally binding agreement (the “Agreement”) between you and WebTruyen in relation to your use of the Website, Apps and Services (together, the “Platform”).
+
+## WebTruyen DMCA (Copyright) Notifications
+
+Last Updated: February 2016
+
+WebTruyen respects the intellectual property of others, and we ask our users to do the same. Each user is responsible for ensuring that the materials they upload to the WebTruyen Site do not infringe any third party copyright.
+
+WebTruyen will promptly remove materials from the WebTruyen Site in accordance with the Digital Millennium Copyright Act ("DMCA") if properly notified that the materials infringe a third party's copyright. In addition, WebTruyen may, in appropriate circumstances, terminate the accounts of repeat copyright infringers.
+
 ## Your Content
 
 Any and all media, text, photos, pictures, graphics, comments, and other content, data or information that you upload, store, transmit, submit, exchange or make available to or via the Platform (hereinafter "Your Content") is generated, owned and controlled solely by you, and not by WebTruyen.
