@@ -1,4 +1,54 @@
+## **Điều Khoản Dịch Vụ**
 
+Khi tham gia sử dụng dịch vụ cung cấp bởi WebTruyen, bạn phải đồng ý và tuân thủ các quy định sau.
+
+  
+
+Quy định này áp dụng cho mọi đối tượng tham gia hoạt động tại website, không kể là khách, thành viên, tác giả, dịch giả, biên tập viên, quản trị viên, admin hay bất cứ thành viên nào khác.
+
+  
+
+Quy định này gồm 2 bên:
+
+  
+
+-   WebTruyen cung cấp dịch vụ trên internet.
+-   Khách hàng gọi tắt là KH, sử dụng dịch vụ của WebTruyen trên internet.
+
+Nội dung:
+
+1.  Không được có những từ ngữ gay gắt, đả kích, xúc phạm, bêu xấu cá nhân và tổ chức trên WebTruyen.
+2.  Không phát tán và truyền bá thông tin bất hợp pháp, lừa gạt, bôi nhọ, sỉ nhục, tục tĩu, khiêu dâm, xúc phạm, đe dọa, lăng mạ, thù hận, kích động… hoặc trái với chuẩn mực đạo đức chung của xã hội.
+3.  Không được gửi hoặc truyền bất kỳ thông tin hoặc phần mềm nào có chứa bất kỳ loại virus, trojan, bọ hay các thành phần nguy hại nào đến sự an toàn của hệ thống dịch vụ.  
+    
+4.  Không được dẫn link hoặc nhắc đến website khác.
+5.  Không spam tin nhắn, bình luận, bài viết hay bất cứ hình thức nào tại WebTruyen.
+6.  Đánh giá và bình luận phải sử dụng tiếng việt có dấu.
+7.  Đánh giá hoặc bình luận không liên quan tới truyện sẽ bị xóa.
+8.  Đánh giá khen/chê truyện một cách chung chung không mang lại giá trị cho người đọc sẽ bị xóa.
+9.  Đánh giá có điểm số sai lệch với nội dung sẽ bị xóa  
+    
+10.  Không để avatar tục tĩu, vi phạm pháp luật hoặc ảnh hưởng đến người khác.
+11.  Không tận dụng các bugs (lỗi) của chương trình nhằm phá hoại sự ổn định của WebTruyen.
+12.  Sẽ khóa vĩnh viễn các tài khoản copy truyện thu phí ra ngoài mà không được sự cho phép bằng văn bản của WebTruyen.
+13.  Quy định về mức phạt đối với thành viên vi phạm nội quy là do ban quản trị website tự đề ra.
+14.  Thành viên vi phạm sẽ bị khóa nick mà không cần báo trước.
+15.  Nhân viên quản lý có quyền xóa nội dung gây hại cho website mà không cần báo trước.
+16.  Nội dung các quy định trên có thể thay đổi mà không cần báo trước
+
+Quy định khi đăng truyện
+
+1.  Không được phép đăng các truyện liên quan tới chính trị, tôn giáo, tình dục, sắc hiệp, dâm hiệp, nói xấu Việt Nam.
+2.  Chỉ được đăng các truyện do bạn tự sáng tác hoặc bạn có quyền sử dụng.
+3.  Tên truyện phải viết hoa chữ đầu mỗi từ: Giống Như Thế Này.
+4.  Nội dung giới thiệu truyện và nội dung chương truyện trình bày phải phân đoạn rõ ràng, nếu viết thành 1 khối dày đặc chữ sẽ bị xóa.
+5.  Không được dẫn link tới website khác trong nội dung truyện, nội dung chương, ảnh bìa của truyện.
+6.  Ảnh bìa truyện không có các hình ảnh khiêu dâm, kích dục, kích động, thù hằn, ám chỉ đến tôn giáo, chính trị, các hoạt động bị cấm bởi pháp luật.
+7.  Tất cả truyện bạn đăng lên TWebTruyen có bản quyền thuộc về cá nhân của bạn, WebTruyen không có quyền lợi hay nghĩa vụ đăng ký bản quyền hộ bạn. Khi đăng truyện lên hệ thống bạn cho phép WebTruyen và các website thuộc hệ thống quyền khai thác quảng cáo và quyền thu hộ trả phí (mở khóa) các chương truyện trên các truyện bạn đã đăng.
+
+Cập nhật lần cuối ngày 13/09/2020
+
+--------------------------------------------------------
 
 ## DocTruyen Terms of Use
 
