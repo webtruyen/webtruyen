@@ -44,7 +44,7 @@ Quy định khi đăng truyện
 4.  Nội dung giới thiệu truyện và nội dung chương truyện trình bày phải phân đoạn rõ ràng, nếu viết thành 1 khối dày đặc chữ sẽ bị xóa.
 5.  Không được dẫn link tới website khác trong nội dung truyện, nội dung chương, ảnh bìa của truyện.
 6.  Ảnh bìa truyện không có các hình ảnh khiêu dâm, kích dục, kích động, thù hằn, ám chỉ đến tôn giáo, chính trị, các hoạt động bị cấm bởi pháp luật.
-7.  Tất cả truyện bạn đăng lên TWebTruyen có bản quyền thuộc về cá nhân của bạn, WebTruyen không có quyền lợi hay nghĩa vụ đăng ký bản quyền hộ bạn. Khi đăng truyện lên hệ thống bạn cho phép WebTruyen và các website thuộc hệ thống quyền khai thác quảng cáo và quyền thu hộ trả phí (mở khóa) các chương truyện trên các truyện bạn đã đăng.
+7.  Tất cả truyện bạn đăng lên WebTruyen có bản quyền thuộc về cá nhân của bạn, WebTruyen không có quyền lợi hay nghĩa vụ đăng ký bản quyền hộ bạn. Khi đăng truyện lên hệ thống bạn cho phép WebTruyen và các website thuộc hệ thống quyền khai thác quảng cáo và quyền thu hộ trả phí (mở khóa) các chương truyện trên các truyện bạn đã đăng.
 
 Cập nhật lần cuối ngày 13/09/2020
 
